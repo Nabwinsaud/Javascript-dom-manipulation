@@ -20,7 +20,7 @@ Each markup can be represented by node in the tree.
 
 *At first you need to make <index.html> file and <app.js> file so add little bit of html *
 # index.html
-  ```  
+  ```html  
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -36,7 +36,7 @@ Each markup can be represented by node in the tree.
 </html>
 ```
  # app.js
-```
+```js
 console.log('just setup only ')
 ```  
 
